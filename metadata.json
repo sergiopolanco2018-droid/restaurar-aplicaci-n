@@ -1,0 +1,5 @@
+{
+  "name": "RestaurAI - EbenEzer",
+  "description": "An expert-level AI tool to restore, sharpen, and repair old or damaged photographs using Gemini 2.5.",
+  "requestFramePermissions": []
+}
